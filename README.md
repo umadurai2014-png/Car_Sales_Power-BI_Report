@@ -59,4 +59,9 @@ The dashboard enables management to make data-driven decisions for inventory pla
 4. **Leverage color & model preferences** → Guide inventory & marketing strategy.
 5. **Optimize pricing strategy** → Use average price trends to balance demand and profit.
 
+## 🔗 Connect With Me
+* 📧 Email: [umadurai2014@gmail.com] (mailto:umadurai2014@gmail.com)
+* 💼 LinkedIn: [Umamaheswari D] (https://www.linkedin.com/in/uma-maheswari-d))
+* 🌟 GitHub: umadurai2014-png (https://github.com/umadurai2014-png)
+
 
