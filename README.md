@@ -1,4 +1,4 @@
-# 🚗 Car Sales Dashboard – Power BI
+# 🚗 Car Sales Project – Power BI
 
 ## 📌 Project Overview
 Our company is a car dealership selling various car models. To effectively track and analyze sales performance, we built a Car Sales Dashboard in Power BI. The dashboard provides real-time insights into sales KPIs, helping us monitor performance, identify trends, and make data-driven decisions.
